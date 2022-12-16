@@ -44,4 +44,28 @@ The library now includes a WebXR manager that acts as a bridge between the 3D ca
 
 https://niksgames.com/webxr/
 
+We can set these Geometry in BoxBufferGeometry
+Geometry Classes :
+   .Box   --> BoxBufferGeometry
+   .circle   --> circleBufferGeometry
+   .cone 
+   .cylinder 
+   .dodecahedron 
+   .icosahedron 
+   .octahedron
+   .plain 
+   .sphere 
+   .tetrahedron 
+   .Torus     --> TorusBufferGeometry
+   .TorusKnor
+   
+ Constructive Geometry classes :
+   .edges 
+   .extrude 
+   .lathe
+   .parametric 
+   .shape 
+   .text  
+   .cube
+
 
