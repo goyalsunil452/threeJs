@@ -68,4 +68,6 @@ Geometry Classes :
    .text  
    .cube
 
+Touch Gestures:
+  tap, doubletap,quadtap, press, pan, swipe, pinch, rotate,
 
